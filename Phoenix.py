@@ -16,7 +16,7 @@ if tahmin == Ddos:
     bytes = random._urandom(1024)
 
     os.system("clear")
-    print("Welcome to DOS Tool !   -by TheDev")
+    print("Welcome to DOS Tool !   -by TheDevS")
     print("")
     ip = input("Enter target ip : ")
     port = int(input("Enter target port : "))
